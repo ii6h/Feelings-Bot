@@ -20,10 +20,3 @@
 
 ---
 
-## ⚙️ التشغيل:
-
-### 1. استنساخ المشروع:
-
-```bash
-git clone https://github.com/ii6h/Feelings-Bot.git
-cd Feelings-Bot
